@@ -1,7 +1,3 @@
-require 'rubygems'
-require 'sinatra'
-require 'pry'
-
 set :sessions, true
 
 BLACKJACK_AMOUNT = 21
