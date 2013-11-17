@@ -1,0 +1,1 @@
+This is the Tealeaf Academy assignment for week 4 which is to complete the Blackjack game in Sinatra and deploy it to Heroku.
