@@ -1,3 +1,5 @@
+require 'sinatra'
+
 set :sessions, true
 
 BLACKJACK_AMOUNT = 21
